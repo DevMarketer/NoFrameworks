@@ -16,8 +16,10 @@ This list will be updated as this project grows. Each element has an accompanyin
 
 You will find accordion's commonly on help pages and as FAQs. They work well because they condense information to be hidden when not needed, and expand to display the information in an elegant manner.
 
+---
+
 **Watch the video:**  
 https://youtu.be/VTdSW57--yM
 
-**Download Project Code:**
+**Download Project Code:**  
 https://github.com/DevMarketer/NoFrameworks/releases/tag/accordions
