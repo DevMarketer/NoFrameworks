@@ -14,3 +14,10 @@ for (var i = 0; i < accordions.length; i++) {
     }
   }
 }
+// making it responsive
+window.addEventListener("resize", function(){
+    var isOpen = document.querySelectorAll(".is-open");
+    isOpen.forEach(function(e){
+      e.nextElementSibling.style.maxHeight = e.nextElementSibling.scrollHeight + "px";
+    })
+});
